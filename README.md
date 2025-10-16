@@ -48,7 +48,7 @@ maintaining clinical interpretability.
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/your-username/SpineAI-Multimodal.git
+git clone https://github.com/aiosmartlab/SpineAI-Multimodal.git
 cd SpineAI-Multimodal
 
 # Install dependencies
