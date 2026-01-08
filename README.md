@@ -44,8 +44,7 @@ maintaining clinical interpretability.
 | MCC | 88.9% |
 
 ---
-This article is archived on Zenodo.
-DOI: 10.5281/zenodo.xxxxxx
+
 
 ## 🚀 Quick Start
 ```bash
@@ -64,7 +63,8 @@ python inference.py --image path/to/xray.jpg --age 45 --gender male
 ```
 
 ---
-
+This article is archived on Zenodo.
+DOI: 10.5281/zenodo.18182945 
 
 
 
