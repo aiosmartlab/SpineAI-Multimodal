@@ -10,9 +10,11 @@
 **Multimodal Deep Learning for Spinal Abnormality Detection**
 
 [Paper](link) | [Dataset](link) | [Demo](link) | [Docs](link)
-
+This article is archived on Zenodo.
+DOI: 10.5281/zenodo.18182945 
 </div>
-
+This article is archived on Zenodo.
+DOI: 10.5281/zenodo.18182945 
 ---
 
 ## 🎯 Overview
