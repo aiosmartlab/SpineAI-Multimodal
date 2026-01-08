@@ -15,7 +15,7 @@
 
 ---
 This article is archived on Zenodo.
-DOI: 10.5281/zenodo.18182945 
+DOI: 10.5281/zenodo.18182946 
 ## 🎯 Overview
 
 This repository implements a state-of-the-art deep learning framework 
