@@ -14,8 +14,10 @@
 </div>
 
 ---
-This article is archived on Zenodo.
-DOI: 10.5281/zenodo.18182946 
+## Software DOI
+This software release is archived on Zenodo.
+DOI: [https://doi.org/10.5281/zenodo.18197642](https://doi.org/10.5281/zenodo.18197642)
+
 ## 🎯 Overview
 
 This repository implements a state-of-the-art deep learning framework 
